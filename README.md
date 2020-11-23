@@ -14,6 +14,9 @@ Requirements
 
 All those packages should be available through your Linux or OSX package managers.
 
+OSX
+brew install gcc libgphoto2 sdl2 sdl2_image
+
 Setup
 -----
 1. Plug in a USB connector from your camera to your computer
